@@ -23,5 +23,4 @@ steps:
     versionSpec: '>=6.10.0' 
     checkLatest: true # Optional
 # Write the installed version to the command line
-- script: npm i snyk
-- script: snyk test
+- script: npm i snyk && snyk test
