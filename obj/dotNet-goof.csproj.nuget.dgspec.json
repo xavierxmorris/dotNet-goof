@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "System.Management.Automation": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             }
           },
           "imports": [
